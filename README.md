@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lealjuanm
 - 👀 I’m interested in Tecnologi in general, video game and good tv shows 
-- 🌱 I’m currently learning C++ ans TYpescript
+- 🌱 I’m currently learning C++ and typescript
 - 💞️ I’m looking to collaborate on project on C++ and javascript
 - 📫 How to reach me my twitter is @lealjuanm
 
